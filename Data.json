@@ -1,0 +1,90 @@
+{
+    "I1": {
+        "Name": "Tandoori Paneer Tikka",
+        "Quantity": "200gms",
+        "Price": "500",
+        "Discount": "10",
+        "FinalPrice": 450.0,
+        "stockLeft": "3000gms"
+    },
+    "I2": {
+        "Name": "Raja Kebab",
+        "Quantity": "200gms",
+        "Price": "250",
+        "Discount": "10",
+        "FinalPrice": 225.0,
+        "stockLeft": "3000gms"
+    },
+    "I3": {
+        "Name": "Shami Kebab",
+        "Quantity": "200gms",
+        "Price": "320",
+        "Discount": "10",
+        "FinalPrice": 288.0,
+        "stockLeft": "3000gms"
+    },
+    "I4": {
+        "Name": "Handi Dum Parda Biryani",
+        "Quantity": "250gms",
+        "Price": "190",
+        "Discount": "10",
+        "FinalPrice": 171.0,
+        "stockLeft": "3000gms"
+    },
+    "I5": {
+        "Name": "Veg. Hyderabadi Biryani",
+        "Quantity": "200gms",
+        "Price": "290",
+        "Discount": "10",
+        "FinalPrice": 261.0,
+        "stockLeft": "3000gms"
+    },
+    "I6": {
+        "Name": "Chicken Dum Biryani",
+        "Quantity": "280 gms",
+        "Price": "600",
+        "Discount": "15",
+        "FinalPrice": 560.0,
+        "stockLeft": "2000 gms"
+    },
+    "I7": {
+        "Name": "Chicken Lollypop",
+        "Quantity": "5 Pieces",
+        "Price": "180",
+        "Discount": "10",
+        "FinalPrice": 162.0,
+        "stockLeft": "100 pieces"
+    },
+    "I8": {
+        "Name": "Chili Chicken",
+        "Quantity": "200 gms",
+        "Price": "190",
+        "Discount": "10",
+        "FinalPrice": 171.0,
+        "stockLeft": "5000 gms"
+    },
+    "I9": {
+        "Name": "Pepper Chicken",
+        "Quantity": "200 gms",
+        "Price": "200",
+        "Discount": "15",
+        "FinalPrice": 186.6,
+        "stockLeft": "2000 gms"
+    },
+    "I10": {
+        "Name": "Chicken Moghlai Biryani",
+        "Quantity": "250 gms",
+        "Price": "220",
+        "Discount": "10",
+        "FinalPrice": 198.0,
+        "stockLeft": "7000 gms"
+    },
+    "I11": {
+        "Name": "Chicken spl Biryani",
+        "Quantity": "250 gms",
+        "Price": "230",
+        "Discount": "10",
+        "FinalPrice": 207.0,
+        "stockLeft": "6000 gms"
+    }
+}
